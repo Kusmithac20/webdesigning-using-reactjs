@@ -1,0 +1,24 @@
+{
+    "cards":[{
+        "img":"./download4.jpg",
+        "name":"poco",
+         "price":"11k",
+        "model":"12k",
+        "offer":"10k"
+    },
+    {
+        "img":"./download4.jpg",
+        "name":"samsung",
+         "price":"11k",
+        "model":"12k",
+        "offer":"10k"
+    },
+    {
+        "img":"./download4.jpg",
+        "name":"motorola",
+         "price":"11k",
+        "model":"12k",
+        "offer":"10k"
+    }
+    ]
+}
